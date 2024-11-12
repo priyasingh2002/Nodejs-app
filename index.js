@@ -50,3 +50,7 @@ module.exports=app
 
 //to delete already pushed nodemodules from github.
 //git rm -r --cached node_modules
+
+
+//command to push code to our branch
+// git push -f origin my_branch
