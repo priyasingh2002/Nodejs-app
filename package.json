@@ -11,5 +11,12 @@
   "description": "",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "axios": "^1.7.7",
+    "express": "^4.21.1",
+    "graphql": "^16.9.0",
+    "supertest": "^7.0.0"
   }
 }
